@@ -7,4 +7,4 @@ Esse app foi desenvolvido durante um curso ministrado pela **Credo Academy**, e 
 - adição de sons no aplicativo;
 - gatilho de _Haptic Feedback_;
 - criação de componentes reutilizáveis, e
-- rastreamento de movimento com os dedos no celular.
+- rastreamento de movimento com os dedos no iPhone.
